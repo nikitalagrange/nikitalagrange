@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Nikita Lagrange, a PhD student at <a href="https://institut-curie.org/institut-curie-research-center">Institut Curie</a> in Paris under the supervision of  <a href="http://kinefold.curie.fr/isambertlab">Dr. Hervé Isambert</a> and the co-supervision of  <a href="https://profiles.imperial.ac.uk/b.bravi21">Dr. Barbara Bravi</a>. My thesis focuses on the development of a new search-and-score algorithm for causal discovery in the presence of latent variables using information theory. 
+
 <!--
 **nikitalagrange/nikitalagrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
